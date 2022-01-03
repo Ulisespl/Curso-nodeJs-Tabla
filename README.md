@@ -9,5 +9,9 @@ Opciones:
   -l, --listar   Muestra la tabla en consola         [booleano] [defecto: false]
   -h, --hasta    Toma el agumento para saber hasta donde multiplicar
                                                           [número] [defecto: 10]
-                                                          
+
+
+ Instalar paquetes de Node : npm install 
+ 
+
 ```
